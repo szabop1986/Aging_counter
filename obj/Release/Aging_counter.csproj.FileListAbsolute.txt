@@ -1,0 +1,11 @@
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\bin\Release\Practice.exe.config
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\bin\Release\Practice.exe
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\bin\Release\Practice.pdb
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Aging_counter.csprojResolveAssemblyReference.cache
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Aging_counter.csproj.ResolveComReference.cache
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Practice.Form1.resources
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Practice.Properties.Resources.resources
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Aging_counter.csproj.GenerateResource.Cache
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Aging_counter.csproj.CoreCompileInputs.cache
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Practice.exe
+C:\Users\szabop1\Desktop\Progz\Practice\Practice\obj\Release\Practice.pdb

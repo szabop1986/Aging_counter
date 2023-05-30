@@ -1,0 +1,11 @@
+C:\Users\szabop1\source\repos\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\szabop1\source\repos\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\szabop1\source\repos\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.Form1.resources
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.GenerateResource.Cache
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.pdb
+C:\Users\szabop1\source\repos\Practice\Practice\obj\Debug\Practice.csproj.ResolveComReference.cache
